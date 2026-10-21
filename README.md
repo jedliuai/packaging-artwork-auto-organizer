@@ -1,3 +1,5 @@
+> **Chatgpt代充：[aishopvip.com](https://aishopvip.com)**
+
 # 包装稿自动分组重命名工具
 
 这是一个基于 Python 和 Tkinter 的 Windows 小工具，用来批量整理散放的包装稿文件。
